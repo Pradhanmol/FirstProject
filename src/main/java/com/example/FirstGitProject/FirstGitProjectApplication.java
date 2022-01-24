@@ -13,7 +13,7 @@ import java.util.Scanner;
 		public static void main(String[] args) {
 			Scanner in = new Scanner(System.in);
 			System.out.println("Enter string");
-			String str = in.nextLine();
+				String str = in.nextLine();
 			System.out.println(str);
 			StrRev(str);
 			
